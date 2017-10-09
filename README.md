@@ -1,0 +1,2 @@
+# lang
+just for learn
